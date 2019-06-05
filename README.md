@@ -14,4 +14,4 @@ All done in Kotlin :)
 
 You can run the egm96.tks with the command:
 
-# kotlinc -script egm96.kts
+$ kotlinc -script egm96.kts
