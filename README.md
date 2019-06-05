@@ -12,6 +12,12 @@ the geoidal ondulation as return.
 
 All done in Kotlin :)
 
+After download the egm96 and corrections coefficients files:
+
+https://earth-info.nga.mil/GandG/wgs84/gravitymod/egm96/egm96.z
+
+https://earth-info.nga.mil/GandG/wgs84/gravitymod/egm96/corrcoef.z
+
 You can run the egm96.kts https://github.com/newton-jose/egm96/blob/master/egm96.kts with the command:
 
 $ kotlinc  -script egm96.kts
