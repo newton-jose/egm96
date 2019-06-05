@@ -12,6 +12,6 @@ the geoidal ondulation as return.
 
 All done in Kotlin :)
 
-You can run the egm96.kts with the command:
+You can run the egm96.kts https://github.com/newton-jose/egm96/blob/master/egm96.kts with the command:
 
 $ kotlinc  -script egm96.kts
