@@ -7,7 +7,11 @@ https://earth-info.nga.mil/GandG/wgs84/gravitymod/egm96/f477.f
 
 I try to do a more cleaner program to make it ease to be developed by others.
 
-So the program is a function with latitude and longitude as input and
+So the program egm96.tks is a function with latitude and longitude as input and
 the geoidal ondulation as return.  
 
 All done in Kotlin :)
+
+You can run the egm96.tks with the command:
+
+# kotlinc -script egm96.kts
